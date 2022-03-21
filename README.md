@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mario-lombardo-e20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario-lombardo-e20" height="30" width="40" /></a>
-<a href="https://twitter.com/mariolombardo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mariolombardo0" height="30" width="40" /></a>
-<a href="https://codepen.io/mario-lombardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mario-lombardo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mario-lombardo-e20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario-lombardo-e20" height="30" width="40" /></a>
+<a href="https://twitter.com/mariolombardo0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mariolombardo0" height="30" width="40" /></a>
+<a href="https://codepen.io/mario-lombardo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mario-lombardo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
