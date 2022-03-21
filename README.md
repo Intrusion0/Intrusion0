@@ -13,4 +13,6 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=intrusion0&show_icons=true&locale=en&layout=compact" alt="intrusion0" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=intrusion0&show_icons=true&locale=en&layout=compact" alt="intrusion0" />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=intrusion0&show_icons=true&locale=en" alt="intrusion0" />
+</p>
